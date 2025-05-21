@@ -5,7 +5,7 @@ const navItems = [
   { name: 'Settings', path: '/settings' },
 ];
 
-export default function Sidebar() {
+export default function SideBar() {
   const location = useLocation();
 
   return (
