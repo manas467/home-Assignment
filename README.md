@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 =======
 # home-Assignment
-f60c1584447d3c8a42e35703a76ccbd0e58790ae
+
 This is a take-home assignment built with **React**, **Tailwind CSS**, and **shadcn/ui**.
 
 The app includes:
